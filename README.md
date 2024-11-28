@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dn1f7slqil461uf6?svg=true)](https://ci.appveyor.com/project/netstartnet/aqa-task1)
+[![Build status](https://ci.appveyor.com/api/projects/status/h0afbe2s017458k3?svg=true)](https://ci.appveyor.com/project/netstartnet/aqa-task2-2)
